@@ -39,7 +39,7 @@ nav:
   - Home:
     - About me: index.md
   - Science:
-    - List: Science/science-list.md
+    - Danh sách: Science/science-list.md
     - Vũ Trụ Trong Vỏ Hạt Dẻ:
       - Overview: Science/vu-tru-trong-vo-hat-de/0.md
       - CHƯƠNG 1 - LƯỢC SỬ VỀ THUYẾT TƯƠNG ĐỐI: Science/vu-tru-trong-vo-hat-de/1.md
@@ -59,8 +59,12 @@ nav:
         - Transport Layer Security (TLS): Science/high-performance-browser-networking/4.md
         - Introduction to Wireless Networks: Science/high-performance-browser-networking/5.md
         - Wifi: Science/high-performance-browser-networking/6.md
+    - Hiểu biết sâu sắc về Android:
+      - Overview:  Science/hieu-biet-sau-sac-ve-android/0.md
+      - CHương 1 - Chuẩn bị trước khi đọc: Science/hieu-biet-sau-sac-ve-android/1.md
+      - Chương 2 - Hiểu sâu sắc về JNI: Science/hieu-biet-sau-sac-ve-android/2.md
   - Paper:
-    - List: Paper/paper-list.md
+    - Danh sách: Paper/paper-list.md
     - Câu chuyện về crypto duy nhất bạn cần:
       - Overview: Paper/cau-chuyen-ve-crypto-duy-nhat-ban-can/0.md
       - I. Sổ cái - Bitcoin và Blockchain: Paper/cau-chuyen-ve-crypto-duy-nhat-ban-can/1.md
@@ -69,12 +73,21 @@ nav:
       - IV. Sự tin tưởng - Tiền Bạc - Cộng đồng: Paper/cau-chuyen-ve-crypto-duy-nhat-ban-can/4.md
       - V. Hệ thống tài chính crypto: Paper/cau-chuyen-ve-crypto-duy-nhat-ban-can/5.md
       - VI. Sự tin tưởng - Tiền bạc - Cộng đồng: Paper/cau-chuyen-ve-crypto-duy-nhat-ban-can/6.md
+    - Android Binder:
+      - 1. Introduction: Paper/android-binder/0.md
+      - 2. Multitasking, Processes and Threads: Paper/android-binder/1.md
+      - 3. Android: Paper/android-binder/2.md
+      - 4. Binder: Paper/android-binder/3.md
+      - 5. Implementation of the Binder Framework: Paper/android-binder/4.md
+      - 6. Example IPC Message Flow: Paper/android-binder/5.md
+      - 7. Discussion: Paper/android-binder/6.md
   - NonFig:
-    - List: NonFig/nonfig-list.md
+    - Danh sách: NonFig/nonfig-list.md
     - Thiên Nga Đen:
       - LỜI BẠT: NonFig/thien-nga-den/0.md
       - Phần Mở Đầu - XOAY QUANH BỘ LÔNG CHIM: NonFig/thien-nga-den/1.md
       - Phần Một - PHẢN THƯ VIỆN CỦA UMBERTO ECO HAY CÁCH CHÚNG TA TÌM KIẾM SỰ PHÊ CHUẨN: NonFig/thien-nga-den/2.md
+
 extra_css:
   - stylesheets/theme.css
   - https://unpkg.com/katex@0/dist/katex.min.css
