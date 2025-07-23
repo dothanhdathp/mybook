@@ -1,0 +1,111 @@
+site_name: Tad Zeila Book
+theme:
+  name: material
+  logo: logo/cat_white.png
+  text: Noto Serif Medium
+  code: Roboto Mono Medium
+  highlightjs: true
+  hljs_style: github
+  hljs_style_dark: github-dark
+  palette:
+  - scheme: default
+    primary: indigo
+    accent: pink
+    toggle:
+      icon: material/brightness-4
+      name: Switch to dark mode
+  - scheme: slate
+    primary: indigo
+    accent: pink
+    toggle:
+      icon: material/brightness-7
+      name: Switch to light mode
+  features:
+    - content.code.annotation
+    - content.code.copy
+    - content.tabs.link
+    - navigation.tabs
+    - navigation.instant
+    - navigation.footer
+    - navigation.tracking
+
+plugins:
+  - search
+  - plantuml:
+      puml_url: https://www.plantuml.com/plantuml/
+
+nav:
+  # ---------- Home ----------
+  - Home:
+    - About me: index.md
+  - Science:
+    - List: Science/science-list.md
+    - Vũ Trụ Trong Vỏ Hạt Dẻ:
+      - Overview: Science/vu-tru-trong-vo-hat-de/0.md
+      - CHƯƠNG 1 - LƯỢC SỬ VỀ THUYẾT TƯƠNG ĐỐI: Science/vu-tru-trong-vo-hat-de/1.md
+      - CHƯƠNG 2 - HÌNH DÁNG CỦA THỜI GIAN: Science/vu-tru-trong-vo-hat-de/2.md
+      - CHƯƠNG 3 - VŨ TRỤ TRONG MỘT VỎ HẠT: Science/vu-tru-trong-vo-hat-de/3.md
+      - CHƯƠNG 4 - TIÊN ĐOÁN TƯƠNG LAI: Science/vu-tru-trong-vo-hat-de/4.md
+      - CHƯƠNG 5 - BẢO VỆ QUÁ KHỨ: Science/vu-tru-trong-vo-hat-de/5.md
+      - CHƯƠNG 6 - TƯƠNG LAI CỦA CHÚNG TA? CÓ THỂ LÀ STARTREK HAY KHÔNG?: Science/vu-tru-trong-vo-hat-de/6.md
+      - CHƯƠNG 7 - MÀNG VŨ TRỤ MỚI: Science/vu-tru-trong-vo-hat-de/7.md
+      - THUẬT NGỮ: Science/vu-tru-trong-vo-hat-de/8.md
+    - High Performance Browser Networking:
+      - Overview:  Science/high-performance-browser-networking/0.md
+      - Networking 101:
+        - Primer on Latency and Bandwidth: Science/high-performance-browser-networking/1.md
+        - Building Blocks of TCP: Science/high-performance-browser-networking/2.md
+        - Building Blocks of UDP: Science/high-performance-browser-networking/3.md
+        - Transport Layer Security (TLS): Science/high-performance-browser-networking/4.md
+        - Introduction to Wireless Networks: Science/high-performance-browser-networking/5.md
+        - Wifi: Science/high-performance-browser-networking/6.md
+  - Paper:
+    - List: Paper/paper-list.md
+    - Câu chuyện về crypto duy nhất bạn cần:
+      - Overview: Paper/cau-chuyen-ve-crypto-duy-nhat-ban-can/0.md
+      - I. Sổ cái - Bitcoin và Blockchain: Paper/cau-chuyen-ve-crypto-duy-nhat-ban-can/1.md
+      - II. Nó có nghĩa là gì: Paper/cau-chuyen-ve-crypto-duy-nhat-ban-can/2.md
+      - III. Hệ thống tài chính crypto: Paper/cau-chuyen-ve-crypto-duy-nhat-ban-can/3.md
+      - IV. Sự tin tưởng - Tiền Bạc - Cộng đồng: Paper/cau-chuyen-ve-crypto-duy-nhat-ban-can/4.md
+      - V. Hệ thống tài chính crypto: Paper/cau-chuyen-ve-crypto-duy-nhat-ban-can/5.md
+      - VI. Sự tin tưởng - Tiền bạc - Cộng đồng: Paper/cau-chuyen-ve-crypto-duy-nhat-ban-can/6.md
+  - NonFig:
+    - List: NonFig/nonfig-list.md
+    - Thiên Nga Đen:
+      - LỜI BẠT: NonFig/thien-nga-den/0.md
+      - Phần Mở Đầu - XOAY QUANH BỘ LÔNG CHIM: NonFig/thien-nga-den/1.md
+      - Phần Một - PHẢN THƯ VIỆN CỦA UMBERTO ECO HAY CÁCH CHÚNG TA TÌM KIẾM SỰ PHÊ CHUẨN: NonFig/thien-nga-den/2.md
+extra_css:
+  - stylesheets/theme.css
+  - https://unpkg.com/katex@0/dist/katex.min.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+
+extra_javascript:
+  - scripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/dothanhdathp
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/tad.zeila?locale=vi_VN
