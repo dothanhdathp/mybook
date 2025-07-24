@@ -38,7 +38,7 @@ nav:
   # ---------- Home ----------
   - Home:
     - About me: index.md
-  - Science:
+  - Khoa Học:
     - Danh sách: Science/science-list.md
     - Vũ Trụ Trong Vỏ Hạt Dẻ:
       - Overview: Science/vu-tru-trong-vo-hat-de/0.md
@@ -50,6 +50,7 @@ nav:
       - CHƯƠNG 6 - TƯƠNG LAI CỦA CHÚNG TA? CÓ THỂ LÀ STARTREK HAY KHÔNG?: Science/vu-tru-trong-vo-hat-de/6.md
       - CHƯƠNG 7 - MÀNG VŨ TRỤ MỚI: Science/vu-tru-trong-vo-hat-de/7.md
       - THUẬT NGỮ: Science/vu-tru-trong-vo-hat-de/8.md
+  - Khoa Học Máy Tính:
     - High Performance Browser Networking:
       - Overview:  Science/high-performance-browser-networking/0.md
       - Networking 101:
@@ -63,6 +64,10 @@ nav:
       - Overview:  Science/hieu-biet-sau-sac-ve-android/0.md
       - CHương 1 - Chuẩn bị trước khi đọc: Science/hieu-biet-sau-sac-ve-android/1.md
       - Chương 2 - Hiểu sâu sắc về JNI: Science/hieu-biet-sau-sac-ve-android/2.md
+    - Competitive Programmer's Handbook:
+      - Preface: Science/competitive-programmers-handbook/0.md
+      - Part I - Basic technique:
+        - "Chapter 1: Introduction": Science/competitive-programmers-handbook/1.md
   - Paper:
     - Danh sách: Paper/paper-list.md
     - Câu chuyện về crypto duy nhất bạn cần:
