@@ -68,6 +68,28 @@ nav:
       - Preface: Science/competitive-programmers-handbook/0.md
       - Part I - Basic technique:
         - "Chapter 1: Introduction": Science/competitive-programmers-handbook/1.md
+  - Triết Học:
+    - Overview: Philosophy/philosophy.md
+    - Chủ Nghĩa Khắc Kỷ:
+        - Chủ Nghĩa Khắc Kỷ - Phong Cách Sống Bản Lĩnh Và Bình Thản:
+          - Lời cảm ơn & Giới thiệu: Philosophy/chu-nghia-khac-ky-phong-cach-song-ban-linh-va-binh-than/0.md
+          - "PHẦN MỘT: SỰ HÌNH THÀNH CỦA CHỦ NGHĨA KHẮC KỶ": Philosophy/chu-nghia-khac-ky-phong-cach-song-ban-linh-va-binh-than/1.md
+          - "PHẦN HAI: CÁC KỸ THUẬT TÂM LÝ CỦA CHỦ NGHĨA KHẮC KỶ": Philosophy/chu-nghia-khac-ky-phong-cach-song-ban-linh-va-binh-than/2.md
+          - "PHẦN BA: LỜI KHUYÊN CỦA CÁC NHÀ KHẮC KỶ": Philosophy/chu-nghia-khac-ky-phong-cach-song-ban-linh-va-binh-than/3.md
+          - "PHẦN BỐN: CHỦ NGHĨA KHẮC KỶ TRONG CUỘC SỐNG HIỆN ĐẠI": Philosophy/chu-nghia-khac-ky-phong-cach-song-ban-linh-va-binh-than/4.md
+    - Triết học hiện sinh:
+        - Triết học hiện sinh:
+          - Preface: Philosophy/triet-hoc-hien-sinh/0.md
+          - Chương 1. TRIẾT HỌC HIỆN SINH LÀ GÌ?: Philosophy/triet-hoc-hien-sinh/1.md
+          - Chương 2. NHỮNG ĐỀ TÀI CHÍNH CỦA TRIẾT HIỆN SINH: Philosophy/triet-hoc-hien-sinh/2.md
+          - Chương 3. HAI NGÀNH CỦA PHONG TRÀO TRIẾT HIỆN SINH: Philosophy/triet-hoc-hien-sinh/3.md
+          - Chương 4. KIERKEGAARD ÔNG TỔ HIỆN SINH TRUNG THỰC: Philosophy/triet-hoc-hien-sinh/4.md
+          - Chương 5. NIETZSCHE ÔNG TỔ HIỆN SINH VÔ THẦN: Philosophy/triet-hoc-hien-sinh/5.md
+          - Chương 6. HUSSERL ~ ÔNG TỔ VĂN CHƯƠNG TRIẾT LÝ HIỆN TƯỢNG HỌC: Philosophy/triet-hoc-hien-sinh/6.md
+          - Chương 7. JASPERS HIỆN SINH VÀ SIÊU VIỆT: Philosophy/triet-hoc-hien-sinh/7.md
+          - Chương 8. MARCEL HIỆN SINH VÀ HUYỀN NHIỆM: Philosophy/triet-hoc-hien-sinh/8.md
+          - Chương 9. SARTRE - HIỆN SINH PHI LÝ: Philosophy/triet-hoc-hien-sinh/9.md
+          - Chương 10. HEIDEGGER HIỆN SINH VÀ HIỆN HỮU: Philosophy/triet-hoc-hien-sinh/10.md
   - Paper:
     - Danh sách: Paper/paper-list.md
     - Câu chuyện về crypto duy nhất bạn cần:
@@ -86,6 +108,7 @@ nav:
       - 5. Implementation of the Binder Framework: Paper/android-binder/4.md
       - 6. Example IPC Message Flow: Paper/android-binder/5.md
       - 7. Discussion: Paper/android-binder/6.md
+    - Chủ nghĩa khắc kỷ, Đức hạnh và Sức khỏe tâm thần: Paper/stoic-virtue-and-mental-health.md
   - NonFig:
     - Danh sách: NonFig/nonfig-list.md
     - Thiên Nga Đen:
