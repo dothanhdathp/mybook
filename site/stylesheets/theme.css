@@ -134,12 +134,10 @@ div.grid-container-4-3 {
     box-sizing: border-box;
 }
 
-/* Center Markdown Tables (requires md_in_html extension) */
-.center-table {
-    text-align: center;
+/* center table */
+.md-typeset .md-typeset__table {
+    display: block;
 }
-
-.md-typeset .center-table :is(td,th):not([align]) {
-    /* Reset alignment for table cells */
-    text-align: initial;
+.md-typeset__table table:not([class]) {
+    display: table;
 }
