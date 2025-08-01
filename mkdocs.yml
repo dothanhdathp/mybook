@@ -68,6 +68,7 @@ nav:
       - Preface: Science/competitive-programmers-handbook/0.md
       - Part I - Basic technique:
         - "Chapter 1: Introduction": Science/competitive-programmers-handbook/1.md
+        - "Chapter 2: Time complexity": Science/competitive-programmers-handbook/2.md
   - Triết Học:
     - Overview: Philosophy/philosophy.md
     - Chủ Nghĩa Khắc Kỷ:
@@ -90,9 +91,52 @@ nav:
           - Chương 8. MARCEL HIỆN SINH VÀ HUYỀN NHIỆM: Philosophy/triet-hoc-hien-sinh/8.md
           - Chương 9. SARTRE - HIỆN SINH PHI LÝ: Philosophy/triet-hoc-hien-sinh/9.md
           - Chương 10. HEIDEGGER HIỆN SINH VÀ HIỆN HỮU: Philosophy/triet-hoc-hien-sinh/10.md
-    - "Seneca - Những bức thư đạo đức (Tập 1)":
-      - Lời tựa: Philosophy/seneca-nhung-buc-thu-dao-duc-1/0.md
-      - Nội Dung: Philosophy/seneca-nhung-buc-thu-dao-duc-1/1.md
+    - "Seneca - Những bức thư đạo đức":
+      - "Seneca - Những bức thư đạo đức (Tập 1)":
+        - Lời tựa: Philosophy/seneca-nhung-buc-thu-dao-duc-1/0.md
+        - Bức thư số 1  : Philosophy/seneca-nhung-buc-thu-dao-duc-1/1.md
+        - Bức thư số 2  : Philosophy/seneca-nhung-buc-thu-dao-duc-1/2.md
+        - Bức thư số 3  : Philosophy/seneca-nhung-buc-thu-dao-duc-1/3.md
+        - Bức thư số 4  : Philosophy/seneca-nhung-buc-thu-dao-duc-1/4.md
+        - Bức thư số 5  : Philosophy/seneca-nhung-buc-thu-dao-duc-1/5.md
+        - Bức thư số 6  : Philosophy/seneca-nhung-buc-thu-dao-duc-1/6.md
+        - Bức thư số 7  : Philosophy/seneca-nhung-buc-thu-dao-duc-1/7.md
+        - Bức thư số 8  : Philosophy/seneca-nhung-buc-thu-dao-duc-1/8.md
+        - Bức thư số 9  : Philosophy/seneca-nhung-buc-thu-dao-duc-1/9.md
+        - Bức thư số 10 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/10.md
+        - Bức thư số 11 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/11.md
+        - Bức thư số 12 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/12.md
+        - Bức thư số 13 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/13.md
+        - Bức thư số 14 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/14.md
+        - Bức thư số 15 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/15.md
+        - Bức thư số 16 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/16.md
+        - Bức thư số 17 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/17.md
+        - Bức thư số 18 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/18.md
+        - Bức thư số 19 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/19.md
+        - Bức thư số 20 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/20.md
+        - Bức thư số 21 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/21.md
+        - Bức thư số 22 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/22.md
+        - Bức thư số 23 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/23.md
+        - Bức thư số 24 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/24.md
+        - Bức thư số 25 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/25.md
+        - Bức thư số 26 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/26.md
+        - Bức thư số 27 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/27.md
+        - Bức thư số 28 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/28.md
+        - Bức thư số 29 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/29.md
+        - Bức thư số 30 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/30.md
+        - Bức thư số 31 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/31.md
+        - Bức thư số 32 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/32.md
+        - Bức thư số 33 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/33.md
+        - Bức thư số 34 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/34.md
+        - Bức thư số 35 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/35.md
+        - Bức thư số 36 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/36.md
+        - Bức thư số 37 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/37.md
+        - Bức thư số 38 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/38.md
+        - Bức thư số 39 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/39.md
+        - Bức thư số 40 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/40.md
+        - Bức thư số 41 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/41.md
+        - Bức thư số 42 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/42.md
+        - Bức thư số 43 : Philosophy/seneca-nhung-buc-thu-dao-duc-1/43.md
   - Paper:
     - Danh sách: Paper/paper-list.md
     - Câu chuyện về crypto duy nhất bạn cần:
